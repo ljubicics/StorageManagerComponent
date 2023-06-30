@@ -1,0 +1,70 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'16'
+-sourcepath
+'D:/Fakultet/Semestri/5. Semestar/Softverske komponente/Prvi Projekat/Specification/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/Fakultet/Semestri/5. Semestar/Softverske komponente/Prvi Projekat/Specification/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Specification 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Specification 1.0-SNAPSHOT API'
+exception
+model
+'D:/Fakultet/Semestri/5. Semestar/Softverske komponente/Prvi Projekat/Specification/src/main/java/exception/AlreadyExistsException.java'
+'D:/Fakultet/Semestri/5. Semestar/Softverske komponente/Prvi Projekat/Specification/src/main/java/exception/DataConfigException.java'
+'D:/Fakultet/Semestri/5. Semestar/Softverske komponente/Prvi Projekat/Specification/src/main/java/exception/DirectoryNotFoundException.java'
+'D:/Fakultet/Semestri/5. Semestar/Softverske komponente/Prvi Projekat/Specification/src/main/java/exception/DirEmptyException.java'
+'D:/Fakultet/Semestri/5. Semestar/Softverske komponente/Prvi Projekat/Specification/src/main/java/exception/FileIsNotADirectoryException.java'
+'D:/Fakultet/Semestri/5. Semestar/Softverske komponente/Prvi Projekat/Specification/src/main/java/exception/FileNotFoundException.java'
+'D:/Fakultet/Semestri/5. Semestar/Softverske komponente/Prvi Projekat/Specification/src/main/java/exception/FileNotLoadedException.java'
+'D:/Fakultet/Semestri/5. Semestar/Softverske komponente/Prvi Projekat/Specification/src/main/java/exception/ForbiddenExtException.java'
+'D:/Fakultet/Semestri/5. Semestar/Softverske komponente/Prvi Projekat/Specification/src/main/java/exception/MaxNumberOfFilesException.java'
+'D:/Fakultet/Semestri/5. Semestar/Softverske komponente/Prvi Projekat/Specification/src/main/java/exception/MoveOutOfStorageException.java'
+'D:/Fakultet/Semestri/5. Semestar/Softverske komponente/Prvi Projekat/Specification/src/main/java/exception/NotParGivenException.java'
+'D:/Fakultet/Semestri/5. Semestar/Softverske komponente/Prvi Projekat/Specification/src/main/java/exception/StorageMaxSizeException.java'
+'D:/Fakultet/Semestri/5. Semestar/Softverske komponente/Prvi Projekat/Specification/src/main/java/exception/StorageNotFoundException.java'
+'D:/Fakultet/Semestri/5. Semestar/Softverske komponente/Prvi Projekat/Specification/src/main/java/model/FileStorageModel.java'
+'D:/Fakultet/Semestri/5. Semestar/Softverske komponente/Prvi Projekat/Specification/src/main/java/model/FileWrapper.java'
+'D:/Fakultet/Semestri/5. Semestar/Softverske komponente/Prvi Projekat/Specification/src/main/java/SpecificationInterface.java'
+'D:/Fakultet/Semestri/5. Semestar/Softverske komponente/Prvi Projekat/Specification/src/main/java/StorageManager.java'
+D:\Fakultet\Semestri\5. Semestar\Softverske komponente\Prvi Projekat\Specification\src\main\java\SpecificationInterface.java = 1669455550679
+D:\Fakultet\Semestri\5. Semestar\Softverske komponente\Prvi Projekat\Specification\src\main\java\StorageManager.java = 1666945752858
+D:\Fakultet\Semestri\5. Semestar\Softverske komponente\Prvi Projekat\Specification\src\main\java = 1669455550681
+D:\Fakultet\Semestri\5. Semestar\Softverske komponente\Prvi Projekat\Specification\target\site\apidocs\allclasses-index.html = 1669460503472
+D:\Fakultet\Semestri\5. Semestar\Softverske komponente\Prvi Projekat\Specification\target\site\apidocs\allpackages-index.html = 1669460503475
+D:\Fakultet\Semestri\5. Semestar\Softverske komponente\Prvi Projekat\Specification\target\site\apidocs\element-list = 1669460503272
+D:\Fakultet\Semestri\5. Semestar\Softverske komponente\Prvi Projekat\Specification\target\site\apidocs\help-doc.html = 1669460503521
+D:\Fakultet\Semestri\5. Semestar\Softverske komponente\Prvi Projekat\Specification\target\site\apidocs\index-all.html = 1669460503513
+D:\Fakultet\Semestri\5. Semestar\Softverske komponente\Prvi Projekat\Specification\target\site\apidocs\index.html = 1669460503449
+D:\Fakultet\Semestri\5. Semestar\Softverske komponente\Prvi Projekat\Specification\target\site\apidocs\jquery-ui.overrides.css = 1669460503576
+D:\Fakultet\Semestri\5. Semestar\Softverske komponente\Prvi Projekat\Specification\target\site\apidocs\member-search-index.js = 1669460503482
+D:\Fakultet\Semestri\5. Semestar\Softverske komponente\Prvi Projekat\Specification\target\site\apidocs\module-search-index.js = 1669460503477
+D:\Fakultet\Semestri\5. Semestar\Softverske komponente\Prvi Projekat\Specification\target\site\apidocs\overview-summary.html = 1669460503516
+D:\Fakultet\Semestri\5. Semestar\Softverske komponente\Prvi Projekat\Specification\target\site\apidocs\overview-tree.html = 1669460503445
+D:\Fakultet\Semestri\5. Semestar\Softverske komponente\Prvi Projekat\Specification\target\site\apidocs\package-search-index.js = 1669460503479
+D:\Fakultet\Semestri\5. Semestar\Softverske komponente\Prvi Projekat\Specification\target\site\apidocs\package-summary.html = 1669460503278
+D:\Fakultet\Semestri\5. Semestar\Softverske komponente\Prvi Projekat\Specification\target\site\apidocs\package-tree.html = 1669460503284
+D:\Fakultet\Semestri\5. Semestar\Softverske komponente\Prvi Projekat\Specification\target\site\apidocs\package-use.html = 1669460503430
+D:\Fakultet\Semestri\5. Semestar\Softverske komponente\Prvi Projekat\Specification\target\site\apidocs\script.js = 1669460503530
+D:\Fakultet\Semestri\5. Semestar\Softverske komponente\Prvi Projekat\Specification\target\site\apidocs\search.js = 1669460503537
+D:\Fakultet\Semestri\5. Semestar\Softverske komponente\Prvi Projekat\Specification\target\site\apidocs\serialized-form.html = 1669460503331
+D:\Fakultet\Semestri\5. Semestar\Softverske komponente\Prvi Projekat\Specification\target\site\apidocs\SpecificationInterface.html = 1669460503030
+D:\Fakultet\Semestri\5. Semestar\Softverske komponente\Prvi Projekat\Specification\target\site\apidocs\StorageManager.html = 1669460503049
+D:\Fakultet\Semestri\5. Semestar\Softverske komponente\Prvi Projekat\Specification\target\site\apidocs\stylesheet.css = 1669460503527
+D:\Fakultet\Semestri\5. Semestar\Softverske komponente\Prvi Projekat\Specification\target\site\apidocs\tag-search-index.js = 1669460503484
+D:\Fakultet\Semestri\5. Semestar\Softverske komponente\Prvi Projekat\Specification\target\site\apidocs\type-search-index.js = 1669460503481
